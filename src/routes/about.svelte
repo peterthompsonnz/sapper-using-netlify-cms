@@ -1,5 +1,7 @@
 <style>
   img {
+    max-width: 100%;
+    margin: 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
     border-radius: 5px;
   }
@@ -20,4 +22,5 @@
     at South Geogia (early 1900s) that I came across. For further reading visit
     <a href="http://www.sght.org/whaling/">South Georgia Heritage Trust</a>
   </p>
+  <hr />
 </main>
