@@ -3,7 +3,7 @@ layout: blog
 title: "First Post: Setting up Sapper with Netlify CMS"
 date: "2020-04-08T23:32:43.504Z"
 ---
-<br />
+<p>&nbsp;</p>
 
 ![Header image - Setting up Sapper with Netlify CMS](/uploads/heading.png "Setting up Sapper with Netlify CMS")
 
