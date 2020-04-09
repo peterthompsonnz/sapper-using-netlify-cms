@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "First Post: Setting up Sapper with Netlify CMS"
+title: Setting up Sapper with Netlify CMS
 date: "2020-04-08T23:32:43.504Z"
 ---
 -------------------------------------------------------------
