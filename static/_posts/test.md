@@ -3,7 +3,7 @@ layout: blog
 title: Happy Duckies
 date: 2020-07-27T09:57:07.501Z
 ---
-[Happy, happy duckies!](https://happyduckies.netlify.app/)
+Happy duckies shelved in rows. Visit the site:
 
 <https://happyduckies.netlify.app/>
 
